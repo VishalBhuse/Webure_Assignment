@@ -34,12 +34,6 @@
   line-height: 16px;
   color: #282c4b;
 }
-.letstalk_button:hover {
-  color: #fff;
-  background-color: #fb3f6c;
-  border-color: #fb3f6c;
-  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
-}
 
 .getstart {
   background: linear-gradient(97.32deg, #ff698d -3.47%, #fb3f6c 108.43%);
@@ -104,3 +98,48 @@
     rgba(50, 151, 211, 0.3) 0 0 0 4px;
 }
 
+.dactive {
+  font-family: "Poppins";
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: center;
+  color: #dcdcdc;
+  margin: auto;
+}
+
+.work {
+  font-family: "Ubuntu";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  letter-spacing: 0.02em;
+  color: #282c4b;
+}
+
+.seemore {
+  border-radius: 80px;
+  padding: 13px 24px;
+  width: 143px;
+  height: 55px;
+  transition: all 300ms;
+  font-family: "Ubuntu";
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #282c4b;
+  border: 1px solid rgba(255, 105, 141, 0.5);
+}
+
+.letstalk_button:hover,
+.seemore:hover {
+  color: #fff;
+  background-color: #fb3f6c;
+  border-color: #fb3f6c;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+}

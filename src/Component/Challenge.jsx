@@ -74,17 +74,17 @@ export const Challenge = () => {
       </section>
 
       {/* four box layout */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 my-2">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 my-5">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 leading-8	">
           {boxData.map((item) => (
             <div
               key={item.id}
               style={{ backgroundColor: item.bg }}
-              className="w-71 h-64 flex flex-col justify-center	mx-auto text-white text-center border-none rounded-xl px-5 py-7 leading-10"
+              className="w-[14rem] h-[14rem] flex flex-col justify-center	mx-auto text-white text-center border-none rounded-xl px-3 py-7 leading-10"
             >
               <p className="text-5xl font-bold">{item.no}</p>
               <p className="font-2xl mt-4">{item.text1}</p>
-              <p className="text-gray-300 text-xl w-11/12 mx-auto">
+              <p className="text-gray-300 text-xl mx-auto">
                 {item.text2}
               </p>
             </div>

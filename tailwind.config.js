@@ -18,7 +18,8 @@ module.exports = {
         banner:"#282C4B",
         sol1:"#3d51e1",
         sol2:"#627193",
-        sol3:"#00005c"
+        sol3:"#00005c",
+        tech:"#040404"
       },
     },
   },
