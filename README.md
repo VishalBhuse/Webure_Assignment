@@ -25,5 +25,8 @@ You may also see any lint errors in the console.
 
 
 ## Project Screenshot:
-![image](https://user-images.githubusercontent.com/101569259/216600248-61ec5255-9174-466d-81ef-6da57ca7e52d.png)
+![image](https://user-images.githubusercontent.com/101569259/216607639-090856c6-3a08-4c75-8cea-baff7bb618eb.png)
+
+## Responsive Layout:
+![image](https://user-images.githubusercontent.com/101569259/216607854-7b392551-4e23-4e60-8211-4916253bd8c0.png)
 
