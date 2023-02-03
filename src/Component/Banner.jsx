@@ -78,11 +78,11 @@ export const Banner = () => {
 
       {/* service box */}
 
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 my-5">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 my-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 leading-8">
-          <div className="w-80 h-64 flex flex-col gap-5	mx-auto border-none rounded-xl px-5 py-7 leading-10 ">
+          <div className="lg:w-80 w-full h-full lg:h-64 flex flex-col gap-5	mx-auto border-none rounded-xl px-5 py-7 leading-10 ">
             <p className="project">service</p>
-            <h1 className="text-4xl	font-bold	">Our Capabilities</h1>
+            <h1 className="text-4xl	font-bold">Our Capabilities</h1>
             <p className="font-2xl mt-4 text-navbar text-sm	font-normal leading-7">
               We will bring the breathe of our experience and industry knowledge
               to help you succeed

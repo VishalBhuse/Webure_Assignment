@@ -15,7 +15,10 @@ module.exports = {
         navbar: "#747582",
         banner3: "#CED1E5",
         service: "#A9A9A9",
-        banner:"#282C4B"
+        banner:"#282C4B",
+        sol1:"#3d51e1",
+        sol2:"#627193",
+        sol3:"#00005c"
       },
     },
   },
