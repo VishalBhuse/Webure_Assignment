@@ -73,12 +73,12 @@ export const NavBar = () => {
               </svg>
             </button>
           </div>
-          <nav className="hidden md:flex space-x-10">
+          <nav className="hidden md:flex space-x-12">
             {navLinks.map((text) => (
               <a
                 key={text.id}
                 href="/"
-                className="text-base capitalize font-medium text-gray-500 hover:text-gray-900"
+                className="text-base capitalize font-normal text-navbar hover:text-gray-900"
               >
                 {text.title}
               </a>
