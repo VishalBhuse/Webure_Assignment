@@ -25,5 +25,5 @@ You may also see any lint errors in the console.
 
 
 ## Project Screenshot:
-
+![image](https://user-images.githubusercontent.com/101569259/216600248-61ec5255-9174-466d-81ef-6da57ca7e52d.png)
 
